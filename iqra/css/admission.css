@@ -175,7 +175,11 @@ div#content div.contentdata .floatedli{
 	width: 50%;
 	padding-bottom: 2%;
 }
+div#content h1{
+	font-size: 24px;
+	margin-top: 0px;
 
+}
 
 div#footer{
 /*height: 300px;*/
@@ -433,7 +437,11 @@ color: 003300;
 padding: 5%;
 font-size: 12px;
 }
-
+div#content h1{
+	font-size: 22px;
+	margin-top: 0px;
+	
+}
 
 div#content div.contentdata{
 	width: 100%;
@@ -709,7 +717,11 @@ padding: 5%;
 font-size: 9px;
 }
 
+div#content h1{
+	font-size: 18px;
+	margin-top: 0px;
 
+}
 div#content div.contentdata{
 	width: 100%;
 	color: black;

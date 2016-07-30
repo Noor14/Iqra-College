@@ -135,6 +135,9 @@ margin: 0px;
 padding: 5%;
 color: black;
 }
+div#content h1{
+	font-size: 22px;
+}
 div#content div#mapbox{
 	/*height: 100px;*/
 	/*width: 300px;*/
@@ -376,7 +379,7 @@ div#content div#intro{
 }
 div#content div#intro h1{
 	border-bottom: 1px dotted black;
-	font-size: 15px;
+	font-size: 18px;
 
 }
 div#content div#intro ul{
@@ -408,7 +411,7 @@ border-left: 1px solid #003300;
 }
 div#content div#contact-form h1{
 border-bottom: 1px dotted black;
-font-size: 15px;
+font-size: 18px;
 }
 div#content div#contact-form ul{
 
@@ -576,6 +579,7 @@ margin: 0px;
 padding: 5%;
 color: black;
 }
+
 div#content div#mapbox{
 	/*height: 100px;*/
 	/*width: 300px;*/
@@ -599,7 +603,7 @@ div#content div#intro{
 }
 div#content div#intro h1{
 	border-bottom: 1px dotted black;
-	font-size: 16px;
+	font-size: 18px;
 }
 div#content div#intro ul{
 padding: 0px;

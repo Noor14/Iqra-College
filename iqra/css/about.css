@@ -163,7 +163,11 @@ div#content div.contentbox div.image img{
 	height: 310px;
 
 }
+div#content h1{
+	font-size: 24px;
+	margin-top: 0px;
 
+}
 
 div#footer{
 /*height: 300px;*/
@@ -423,7 +427,11 @@ div#content div.contentbox div.image img{
 	height: 250px;
 
 }
+div#content h1{
+	font-size: 22px;
+	margin-top: 0px;
 
+}
 
 
 div#footer{
@@ -655,7 +663,11 @@ font-size: 9px;
 color: black;
 }
 
-
+div#content h1{
+	font-size: 18px;
+	margin-top: 0px;
+	
+}
 div#content img{
 	width: 100%;
 }
