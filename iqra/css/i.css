@@ -635,6 +635,9 @@ width: 08px;
 display: none;
 
 }
+div#footermobile{
+	display: none
+}
 }
 
 
